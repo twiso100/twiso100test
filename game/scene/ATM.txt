@@ -15,4 +15,4 @@ changeFigure:Blacksoul00.png -right;
 黑素:對阿 還有咖哩喔 -ATM04.wav;
 :   -next ;
 changeFigure: -right -next;
-choose:往左去科藝館看看:Chapter-5.txt|向右走:Chapter-4.txt;
+choose:往左去科藝館看看:Chapter-5.txt|向右走(音樂館):Chapter-4.txt;
