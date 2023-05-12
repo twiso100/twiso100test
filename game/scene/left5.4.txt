@@ -2,4 +2,4 @@ bgm:you-and-me-forever-by-musiclfiles-from-filmmusic-io.mp3;
 changeBg:FDB.webp;
 :(上面寫這裡是復旦樓);
 :   -next ;
-choose:往外去思源樓:left04pure.txt|去操場:playground.txt;
+choose:往外去思源樓:left04pure.txt|去操場:playgroundfromleft.txt;
