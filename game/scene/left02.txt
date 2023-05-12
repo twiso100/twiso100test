@@ -1,5 +1,5 @@
 bgm:forest-walk-by-alexander-nakarada-from-filmmusic-io.mp3;
-changeBg:LAB.jpg;
+changeBg:LAB.webp;
 :(上面寫這裡是六愛樓);
 :   -next ;
 
