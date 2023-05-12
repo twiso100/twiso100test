@@ -17,5 +17,5 @@ changeFigure:Blacksoul00.png -right;
 我:好!  ;
 : -next  ;
 changeFigure:  right -right;
-choose:往左去科藝館看看:Chapter-5.txt|向右走:bingoway03.txt;
+choose:往左去科藝館看看:Chapter-5.txt|向右走(音樂館):bingoway03.txt;
  
