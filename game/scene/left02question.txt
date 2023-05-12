@@ -6,4 +6,4 @@ changeFigure:Blacksoul00.png;
 黑素:台南 高雄 屏東哪個火車站最南邊? ;
 : -next ;
 changeFigure: ;
-choose:台南阿 字裡有南阿:left02questionX.txt|高雄阿 最暖的城市:left02questionO.txt|屏東阿 國境之南:left02questionX.txt;
+choose:台南阿 字裡有南:left02questionX.txt|高雄阿 最暖的城市:left02questionO.txt|屏東阿 國境之南:left02questionX.txt;
