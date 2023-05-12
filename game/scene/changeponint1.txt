@@ -5,4 +5,4 @@ changeFigure:Blacksoul00.png -left;
 黑素:前面有涼亭和小池塘 滿漂亮的  -change1-2.wav ;
 : -next ;
 changeFigure: -left;
-choose:音樂館: Chapter-4.txt|停車場:right01.txt|回敬業樓:Chapter1pure.txt|和導覽員玩猜謎:changepoint1Q.txt;
+choose:音樂館:Chapter-4.txt|停車場:right01.txt|回敬業樓:Chapter1pure.txt|和導覽員玩猜謎:changepoint1Q.txt;
