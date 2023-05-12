@@ -6,4 +6,4 @@ changeFigure:Blacksoul00.png -right;
 :    -next;
 changeFigure: -right -next;
 
-choose:附近看看:Chapter-5.1.txt|往左走:changepoint2.txt|向右去至善樓:Chapter-3.txt;
+choose:附近看看:Chapter-5.1.txt|往左走(宿舍區):changepoint2.txt|向右去至善樓:Chapter-3.txt;
