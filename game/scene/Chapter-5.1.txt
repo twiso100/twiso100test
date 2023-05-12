@@ -4,4 +4,4 @@ changeFigure:Blacksoul00.png -right;
 黑素:這是坐在鉛筆上的沉思者 裝置藝術 -pencilthinker.wav;
 :    -next;
 changeFigure: -right -next;
-choose:往左邊走:changepoint2.txt|留在附近晃晃:chapter-5.2.txt|有沒有什麼小知識 可以猜呢?:Chapter-5.1Q.txt;
+choose:往左走(宿舍區):changepoint2.txt|留在附近晃晃:chapter-5.2.txt|有沒有什麼小知識 可以猜呢?:Chapter-5.1Q.txt;
