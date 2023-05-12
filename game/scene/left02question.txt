@@ -1,5 +1,5 @@
 bgm:forest-walk-by-alexander-nakarada-from-filmmusic-io.mp3;
-changeBg:LAB.jpg;
+changeBg:LAB.webp;
 changeFigure:Blacksoul00.png;
 黑素:那我就想個問題吧 -left02Q01.wav;
 黑素:仔細聽好了喔 -left02Q02.wav;
