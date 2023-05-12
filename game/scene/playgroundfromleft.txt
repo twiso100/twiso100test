@@ -1,0 +1,9 @@
+bgm:romantic-peace-trailer-by-musiclfiles-from-filmmusic-io.mp3;
+changeBg:playground.jpg;
+changeFigure:Blacksoul00.png -right;
+黑素:這是大操場 有升旗講台 籃球場 足球場 棒球打擊場  -playground.wav;
+:人沒有很多 運動起來不太擁擠 ;
+: -next ;
+changeFigure: -right -next;
+
+choose:往左走:left5.5.txt|地上有顆野生的籃球 去投個幾球:basketball.txt|這麼熱!還是去游泳池?看看好了:swimming pool.txt|往右走(理學館):right03.txt;
