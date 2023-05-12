@@ -1,0 +1,5 @@
+Game_name:屏師校區導覽試作;
+Game_key:1351d8c71bb7253;
+Package_name:0800092000;
+Title_bgm:romantic-peace-trailer-by-musiclfiles-from-filmmusic-io.mp3;
+Title_img:thegamecover1.webp;
