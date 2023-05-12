@@ -1,0 +1,10 @@
+bgm:romantic-peace-trailer-by-musiclfiles-from-filmmusic-io.mp3;
+changeBg:zisanlo.webp;
+changeFigure:Blacksoul00.png -right;
+
+
+:這矮房是至善樓   -003.wav;
+:    -next;
+changeFigure: -right;
+
+choose:去領個錢:ATM.txt|去科藝館:Chapter-5.txt|向外走(敬業樓):Chapter1pure.txt;

@@ -1,0 +1,16 @@
+bgm:romantic-peace-trailer-by-musiclfiles-from-filmmusic-io.mp3;
+changeBg:swimming poolbu.jpg;
+changeFigure:Blacksoul00.png -right;
+我:我想要回去了 ;
+我:你平時也會來運動嗎? ;
+黑素:會阿  但都傍晚吧  -sportend0.wav;
+這裡白天陽光真的很大  -sportend02.wav;
+超級大 -sportend03.wav;
+我:真的 屏東真的出產太陽;
+黑素: 哈哈   -haha.wav;
+黑素:所以我算滿喜歡來游泳 -swim01.wav;
+黑素:很涼快 -swim02.wav;
+我:是阿...能夠室內的運動都好;
+: -next ;
+changeFigure: -right;
+changeScene:exit.txt

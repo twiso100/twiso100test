@@ -1,0 +1,14 @@
+bgm:romantic-peace-trailer-by-musiclfiles-from-filmmusic-io.mp3;
+changeBg:linsenroad.webp;
+我:非常感謝妳今天的導覽 ;
+: -next;
+changeFigure:BG00059-2171235715.png;
+黑素:不不  沒什麼大不了的 byebye -byebye.wav; いえいえ、大したことないですよ  バイバイ 
+: -next ;
+changeFigure: -next;
+:(感覺滿有趣的) ;
+:(下次有機會再來吧) ;
+: -next;
+
+end;
+

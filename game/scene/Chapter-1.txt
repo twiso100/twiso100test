@@ -1,0 +1,14 @@
+bgm:romantic-peace-trailer-by-musiclfiles-from-filmmusic-io.mp3;
+changeBg:zinyalo.webp;
+changeFigure:Blacksoul00.png -right;
+黑素:這是敬業樓 有五層樓高 -002 .wav;
+黑素:接下來你想往哪裡走呢?  -change1-3 .wav ;
+:(前面有至善樓 科藝館 宿舍區 
+右邊則是音樂館 操場 教學大樓)
+:    -next;
+changeFigure: -right;
+:可以先看一下校園地圖;
+: -next;
+changeFigure:map.webp;
+changeFigure: ;
+choose:向前方走:Chapter-3.txt|向右方走:changeponint1.txt|不知道呢...:dontknow.txt|再看一次地圖:map.txt;

@@ -1,0 +1,14 @@
+bgm:romantic-peace-trailer-by-musiclfiles-from-filmmusic-io.mp3;
+changeBg:bioyentin.webp;
+changeFigure:Blacksoul00.png;
+黑素:答錯啦;
+黑素:正解是3家喔 ;
+黑素:一家在林森路(校門口附近) 其他兩家在中華路和建國路;
+我:原來如此...有3家阿 ;
+黑素:我原本也以為有更多家呢;
+黑素:每次經過門口都大排長龍;
+我:對阿 偶爾還聯名一些動漫卡通 刮刮樂很難中獎;
+黑素:接下來要往哪走呢? ;
+: -next ;
+changeFigure:;
+choose:音樂館: Chapter-4.txt|停車場:right01.txt|回敬業樓:Chapter1pure.txt

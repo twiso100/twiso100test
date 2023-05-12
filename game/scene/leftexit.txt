@@ -1,0 +1,14 @@
+bgm:forest-walk-by-alexander-nakarada-from-filmmusic-io.mp3;
+changeBg:bicyclepark.jpg;
+changeFigure:Blacksoul00.png -right;
+我:時候不早了 我想要休息 看動漫lar ;
+我:日本女生也看動漫嗎?;
+黑素: 有阿  -leftexit00.wav;
+我最近也有看孤獨搖滾  -leftexit01.wav;
+黑素:虹夏最高!  -leftexit02.wav;
+:  -leftexit03.wav;
+: -next;
+changeFigure: -right;
+我:Nice! ;
+: -next;
+changeScene:exit.txt

@@ -1,0 +1,10 @@
+bgm:romantic-peace-trailer-by-musiclfiles-from-filmmusic-io.mp3;
+changeBg:zinyalo.webp;
+changeFigure:Blacksoul00.png;
+黑素:那和我玩猜謎吧 -guest.wav;
+黑素:猜對的話 我就帶你走比較快的路 -guessright.wav;
+我:好喔 ;
+黑素:屏東大學有幾個校區? ;
+黑素:仔細思考再回答喔 ;
+: -next;
+choose:3個:dontknowX.txt|4個:dontknowO.txt|5個:dontknowX.txt;

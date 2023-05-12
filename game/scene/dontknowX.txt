@@ -1,0 +1,8 @@
+bgm:romantic-peace-trailer-by-musiclfiles-from-filmmusic-io.mp3;
+changeBg:zinyalo.webp;
+黑素:猜錯啦!有4個喔 -dontknowX01.wav;
+有屏師 民生 屏商還有車城校區 -dontknowX02.wav;
+changeFigure:  ;
+我:好難啊... ;
+: -next ;
+changeScene:Chapter-3.txt ;

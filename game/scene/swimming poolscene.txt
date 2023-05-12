@@ -1,0 +1,11 @@
+bgm:romantic-peace-trailer-by-musiclfiles-from-filmmusic-io.mp3;
+changeBg:black.jpg;
+changeFigure:Blacksoul00.png;
+黑素:...我在外面等你;
+: -next ;
+changeFigure:none;
+changeBg:swimming pool.jpg;
+:好大啊 ;
+: -next ;
+intro:好久沒游泳了阿|都進來了|就游一下吧|先做暖身操...1234 2234|20分鐘後...;
+choose:好累喔 回家吧 :swimmingpoolexit.txt|回操場:playground.txt;

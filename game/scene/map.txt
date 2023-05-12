@@ -1,0 +1,5 @@
+bgm:romantic-peace-trailer-by-musiclfiles-from-filmmusic-io.mp3;
+changeBg:zinyalo.webp;
+changeFigure:map.webp;
+changeFigure: ;
+changeScene:Chapter-1map.txt

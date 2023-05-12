@@ -1,0 +1,11 @@
+bgm:romantic-peace-trailer-by-musiclfiles-from-filmmusic-io.mp3;
+changeBg:SCIquen.jpg;
+changeFigure:Blacksoul00.png -left;
+
+
+黑素:那是科學館 -SCIquen.wav;
+:   -next ;
+
+changeFigure: -left -next;
+
+choose:往(內)理學大樓:right03.txt|操場:playground.txt|往回(外)走:right01pure.txt;

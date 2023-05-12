@@ -1,0 +1,5 @@
+bgm:romantic-peace-trailer-by-musiclfiles-from-filmmusic-io.mp3;
+changeBg:park2.jpg;
+:這是停車場 ;
+: -next  ;
+choose:操場:playground.txt|往內走(科學館):right02.txt|往外走(音樂館):Chapter-4(pure).txt;

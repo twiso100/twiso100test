@@ -1,0 +1,23 @@
+bgm:romantic-peace-trailer-by-musiclfiles-from-filmmusic-io.mp3;
+changeBg:swimming poolbu.jpg;
+changeFigure:bluegod.1png.png -right;
+藍玥:我的機車到底停在哪裡呢??? QAQ ;
+我:...;
+: -next;
+changeFigure:Blacksoul00.png -left;
+黑素:你該...不會停在...前面吧 (指遠遠) -youmightpark.wav;
+藍玥:摁...摁....
+有可能喔...哈哈 -hahaB.wav;
+那我先走了;
+:  -next ;
+changeFigure: -right;
+黑素:她是我朋友藍玥  -bluemoon.wav;
+是一個大冒失鬼 -bluemoonghost.wav;
+我:看起來是... ;
+: -next ;
+黑素:這是屏東大學游泳池 -swimpool.wav;
+:(裡面還有健身房 舞蹈教室 飛輪教室);
+:   -next ;
+changeFigure: -left;
+;
+choose:買張票進去看看吧:swimming poolscene.txt|還是回操場好了:playground.txt;

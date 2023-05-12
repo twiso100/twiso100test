@@ -1,0 +1,5 @@
+bgm:romantic-peace-trailer-by-musiclfiles-from-filmmusic-io.mp3;
+changeBg:thinkcenter.jpg;
+:這是思維教育中心;
+: -next;
+choose:往左邊走:changepoint2.txt|往右(至善樓):Chapter-3.txt;

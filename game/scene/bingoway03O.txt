@@ -1,0 +1,10 @@
+bgm:romantic-peace-trailer-by-musiclfiles-from-filmmusic-io.mp3;
+changeBg:musicquen.webp;
+changeFigure:Blacksoul00.png;
+黑素:答對啦 -bingoway03O01.wav;
+黑素:答案就是木瓜 -bingoway03O02.wav;
+我:我真厲害...;
+黑素:聽說是因為屏東盛產木瓜的關係喔 -bingoway03O03.wav;
+: -next;
+changeFigure: ;
+changeScene:right01.txt ;

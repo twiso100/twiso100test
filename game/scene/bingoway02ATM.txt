@@ -1,0 +1,21 @@
+bgm:romantic-peace-trailer-by-musiclfiles-from-filmmusic-io.mp3;
+changeBg:post.webp;
+郵局ATM到了;
+發現媽媽剛好匯了5萬元生活費過來;
+我:超爽的 還以為要當月光族了;
+我:晚點先儲值個一單壓壓驚;
+: -next  ;
+changeFigure:Blacksoul00.png -right;
+黑素:這麼好!!!  -bingo0.wav;
+黑素:可以換成很多的肉.... -bingo1.wav;
+我:你喜歡吃肉阿?;
+黑素:火鍋豬肉喔...  -bingo03.wav;
+黑素:開冷氣吃火鍋超好的 -bingo04.wav;
+我:有這麼好吃嗎? ;
+黑素:你可以試試屏東的汕頭火鍋  -bingo05.wav;
+黑素:香味特別濃郁 -bingo06.wav;
+我:好!  ;
+: -next  ;
+changeFigure:  right -right;
+choose:往左去科藝館看看:Chapter-5.txt|向右走:bingoway03.txt;
+ 

@@ -1,0 +1,15 @@
+bgm:romantic-peace-trailer-by-musiclfiles-from-filmmusic-io.mp3;
+changeBg:musicquen.webp;
+changeFigure:Blacksoul00.png -right;
+
+
+黑素:這裡是音樂館  有圓廳 琴房 音樂教室 -musicquen.wav;
+黑素:我們繼續往下走吧!  -goahead .wav;
+我:稍微休息一下吧 ;
+我:有沒有其他謎題可以猜的;
+黑素:我想想...  -bingoway0301.wav;
+黑素:有喔... -bingoway0302.wav;
+黑素:屏東大學前身屏教大的校徽是什麼植物的葉子?;
+: -next;
+changeFigure: -right;
+choose:南瓜:bingoway03X.txt|西瓜:bingoway03X.txt|木瓜:bingoway03O.txt|哈密瓜:bingoway03X.txt;

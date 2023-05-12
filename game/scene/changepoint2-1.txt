@@ -1,0 +1,3 @@
+bgm:forest-walk-by-alexander-nakarada-from-filmmusic-io.mp3;
+changeBg:dormi1.jpg;
+choose:去停車場(往外):left01pure.txt|六愛樓(往內):left02.txt|光華樓:left03.txt|思源樓:left04.txt|復旦樓:left5.txt|往右去科藝館看看:Chapter-5.txt|逛累了 回家:leftexit.txt;

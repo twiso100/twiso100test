@@ -1,0 +1,5 @@
+bgm:romantic-peace-trailer-by-musiclfiles-from-filmmusic-io.mp3;
+changeBg:zinyalo.webp;
+:這裡是敬業樓;
+: -next ;
+choose:向前方走:Chapter-3.txt|向右方走:changepoint1pure.txt|回家:doorexit.txt|看地圖:map.txt;

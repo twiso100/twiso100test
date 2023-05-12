@@ -1,0 +1,10 @@
+bgm:romantic-peace-trailer-by-musiclfiles-from-filmmusic-io.mp3;
+changeBg:musicquen.webp;
+changeFigure:Blacksoul00.png -right;
+
+
+黑素:這裡是音樂館  有圓廳 琴房 音樂教室 -musicquen.wav;
+黑素:我們繼續往下走吧!  -goahead .wav;
+:   ;
+changeFigure: -right;
+changeScene:right01.txt ;

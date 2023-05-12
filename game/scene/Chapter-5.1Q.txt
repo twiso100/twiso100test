@@ -1,0 +1,8 @@
+bgm:romantic-peace-trailer-by-musiclfiles-from-filmmusic-io.mp3;
+changeBg:pencil.jpg;
+changeFigure:Blacksoul00.png;
+黑素:那好吧...讓你沉思一下;
+黑素:屏東大學的英文簡稱是? ;
+: -next;
+changeFigure:none;
+choose:NPTU:Chapter-5.1QO.txt|PU:chapter5.1QX.txt|NPU:chapter5.1QX.txt|CTPU:chapter5.1QX.txt;

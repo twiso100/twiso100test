@@ -1,0 +1,6 @@
+bgm:forest-walk-by-alexander-nakarada-from-filmmusic-io.mp3;
+changeBg:LAB.jpg;
+:(上面寫這裡是六愛樓);
+:   -next ;
+
+choose:往外走(蕙蘭樓):changepoint2-1.txt|往內走(光華樓):left03.txt|休息一下 猜個謎題?:left02question.txt;

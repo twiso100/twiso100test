@@ -1,0 +1,3 @@
+bgm:romantic-peace-trailer-by-musiclfiles-from-filmmusic-io.mp3;
+changeBg:zinyalo.webp;
+choose:向前方走:Chapter-3.txt|向右方走:changeponint1.txt|不知道呢...:dontknow.txt|再看一次地圖:map.txt;

@@ -1,0 +1,5 @@
+bgm:romantic-peace-trailer-by-musiclfiles-from-filmmusic-io.mp3;
+changeBg:musicquen.webp;
+:這裡是音樂館 ;
+: -next ;
+choose:往外走(表演廳):changepoint1pure.txt|往內走(停車場):right01pure.txt;

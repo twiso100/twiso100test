@@ -1,0 +1,10 @@
+bgm:forest-walk-by-alexander-nakarada-from-filmmusic-io.mp3;
+changeBg:LAB.jpg;
+changeFigure:Blacksoul00.png;
+黑素:答對了喔 -right (2).wav;
+黑素:你是天才嗎?;
+黑素:這題我問很多同學都不知道耶;
+我:(摸頭燦笑)
+: -next ;
+changeFigure:  ;
+choose:往外走(蕙蘭樓):changepoint2-1.txt|往內走(光華樓):left03.txt ;

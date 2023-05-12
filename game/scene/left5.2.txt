@@ -1,0 +1,12 @@
+bgm:you-and-me-forever-by-musiclfiles-from-filmmusic-io.mp3;
+changeBg:wild.webp;
+: -next;
+changeFigure:00076-removebg-preview (1).png;
+???: ...  ;
+???:你幹嘛一直看著我 -looklookme.wav;
+???:きもい きもい きもい -kimokimokimo.wav;
+:    -next;
+changeFigure: -next;
+我:?? 遇到一個怪人... ;
+:    -next;
+choose:往外去復旦樓:left5.5.txt;|去操場:playground.txt;

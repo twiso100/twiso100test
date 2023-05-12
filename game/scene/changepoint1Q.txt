@@ -1,0 +1,10 @@
+bgm:romantic-peace-trailer-by-musiclfiles-from-filmmusic-io.mp3;
+changeBg:bioyentin.webp;
+changeFigure:Blacksoul00.png;
+黑素:你知道台灣南部知名特產丹丹漢堡吧;
+我:知道 ;
+黑素:那你知道屏東市有幾家丹丹嗎?
+: -next ;
+changeFigure:;
+
+choose:1 (林森路有1家阿):changepoint1QX.txt|2 :changepoint1QX.txt|3:changepoint1QO.txt|4家以上 (生意很好 開很多不為過吧):changepoint1QX.txt;

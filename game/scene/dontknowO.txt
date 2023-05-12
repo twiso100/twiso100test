@@ -1,0 +1,8 @@
+bgm:romantic-peace-trailer-by-musiclfiles-from-filmmusic-io.mp3;
+changeBg:zinyalo.webp;
+changeFigure:Blacksoul00.png;
+黑素:答對啦!是4個  -dontknow01.wav;
+黑素:我也是最近才知道的  -dontknow02.wav;
+: -next ;
+changeFigure:  ;
+changeScene:bingoway01.txt ;

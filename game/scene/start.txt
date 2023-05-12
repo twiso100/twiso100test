@@ -1,0 +1,19 @@
+bgm:you-and-me-forever-by-musiclfiles-from-filmmusic-io.mp3;
+changeBg:linsenroad.webp;
+:今天天氣真好 天空好藍 適合出門走走;
+:第一次來參觀屏東大學屏師校區 我該先... ;
+: -next ;
+changeFigure:Blacksoul00.png -right;
+
+黑素:你好 我是屏東大學屏師校區導覽員 黑素 -001.wav;
+黑素的黑 黑素的...素  -startjoke.wav;
+我: ... ; 
+黑素:我可以帶你參觀喔 先跟著我進來吧 -001-1.wav;
+: -next ;
+changeFigure: -right -next;
+:(聽她口音不太標準 應該是個日本交換學生!?) ; 
+:誒 人跑了 ...
+總之先跟上吧 !;
+: -next ;
+changeScene:Chapter-1.txt
+

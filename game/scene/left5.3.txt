@@ -1,0 +1,17 @@
+bgm:you-and-me-forever-by-musiclfiles-from-filmmusic-io.mp3;
+changeBg:wild.webp;
+changeFigure:00076-removebg-preview (1).png;
+我:...需要幫忙嗎?;
+???: 我在找藍芽耳機 可能掉在附近了 -left5-1.wav;
+???:...;
+???: 阿 找到了 在你的腳邊 -left5-2.wav;
+我:太好了! (還好沒踩到...不然.);
+???: 我是屏大文創系大二生 黃橙 -left5-3.wav;
+黃橙: 謝謝你  -left5-4.wav;
+我:沒  我好像沒幫到什麼... ;
+我:我只是來參觀的 對屏東大學有興趣;
+黃橙:有機會可以來讀我們學系喔  -left5-5.wav;
+我:好的 一定一定;
+:    -next;
+changeFigure: -next;
+changeScene:left5.4.txt

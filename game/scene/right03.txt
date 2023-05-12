@@ -1,0 +1,9 @@
+bgm:romantic-peace-trailer-by-musiclfiles-from-filmmusic-io.mp3;
+changeBg:lishit.jpg;
+changeFigure:Blacksoul00.png -left;
+黑素:這棟是理學大樓 -Lishit.wav;
+我:什麼J董? 阿 沒事...
+黑素:  (屮゜Д゜)屮 
+:   -next ;
+changeFigure: -left;
+choose:往回到至善樓休息一下: Chapter-3.txt|後面那個特殊建築是游泳池嗎?:swimming pool.txt|往外走(科學館):right02pure.txt;

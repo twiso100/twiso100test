@@ -1,0 +1,5 @@
+bgm:romantic-peace-trailer-by-musiclfiles-from-filmmusic-io.mp3;
+changeBg:playground.jpg;
+:這是操場 ;
+:  -next ;
+choose:往下(左)走:left5.1.txt|這麼熱!還是去游泳池?看看好了:swimming pool.txt;

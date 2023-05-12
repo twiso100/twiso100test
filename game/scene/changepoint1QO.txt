@@ -1,0 +1,11 @@
+bgm:romantic-peace-trailer-by-musiclfiles-from-filmmusic-io.mp3;
+changeBg:bioyentin.webp;
+changeFigure:Blacksoul00.png;
+黑素:答對啦,屏東3家也剛好都在屏東市;
+黑素:你是屏東在地人嗎? ;
+我:不是...我剛好是丹丹鐵粉;
+黑素:好特別喔...;
+黑素:接下來要往哪走呢? ;
+: -next ;
+changeFigure: ;
+choose:音樂館:Chapter-4.txt|停車場:right01.txt|回敬業樓:Chapter1pure.txt

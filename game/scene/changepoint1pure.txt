@@ -1,0 +1,3 @@
+bgm:romantic-peace-trailer-by-musiclfiles-from-filmmusic-io.mp3;
+changeBg:bioyentin.webp;
+choose:音樂館(右):Chapter-4(pure).txt|停車場(汽車):right01pure.txt|敬業樓(大門):Chapter1pure.txt;

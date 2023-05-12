@@ -1,0 +1,19 @@
+bgm:forest-walk-by-alexander-nakarada-from-filmmusic-io.mp3;
+changeBg:bicyclepark.jpg;
+changeFigure:Blacksoul00.png -left;
+黑素:這裡是機踏車停車場 -bikepark.wav;
+黑素:屏東大學生通常以機車當交通工具 -left01.wav;
+黑素:雖然我只會騎腳踏車 -left01-2.wav;
+黑素:最近有ubike了 很方便 -left01-3.wav;
+:   -next ;
+changeFigure: -left -next;
+changeFigure:REDactor.png -right;
+:迎面來了一個粉紅衣服女子 ;
+粉嘉:黑素 晚上一起吃火鍋 別忘了喔  -hotpot.wav;
+:   -next ;
+changeFigure: -right -next;
+changeFigure:Blacksoul00.png -left;
+黑素: 才不會忘記 待會見  -see U.wav;忘れないよ    また後でー
+:   -next ;
+changeFigure: -left;
+changeScene:changepoint2-1.txt

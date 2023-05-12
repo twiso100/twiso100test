@@ -1,0 +1,10 @@
+bgm:you-and-me-forever-by-musiclfiles-from-filmmusic-io.mp3;
+changeBg:wild.webp;
+: -next;
+changeFigure:00076-removebg-preview (1).png;
+:一個可愛金髮女孩 看著地上似乎在找什麼;
+:    -next;
+changeFigure: -next;
+
+
+choose:問她需不需要幫助?:left5.3.txt|應該只是小事  離開吧:left5.0.txt;

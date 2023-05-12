@@ -1,0 +1,11 @@
+bgm:romantic-peace-trailer-by-musiclfiles-from-filmmusic-io.mp3;
+changeBg:park2.jpg;
+changeFigure:Blacksoul00.png -right;
+;
+
+黑素:這裡是第二停車場  -park2.wav;
+:(是停汽車的 );
+:(往下走是操場和科學館 理學大樓);
+:   -next ;
+changeFigure: -right -next;
+choose:操場:playground.txt|科學館:right02.txt|往外走:Chapter-4(pure).txt;

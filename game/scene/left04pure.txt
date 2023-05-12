@@ -1,0 +1,5 @@
+bgm:forest-walk-by-alexander-nakarada-from-filmmusic-io.mp3;
+changeBg:SYB.jpg;
+:(上面寫這裡是思源樓);
+:   -next ;
+choose:往外走(光華樓):left03pure.txt|往內走(復旦樓):left5.4.txt;

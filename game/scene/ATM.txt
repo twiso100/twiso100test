@@ -1,0 +1,18 @@
+bgm:romantic-peace-trailer-by-musiclfiles-from-filmmusic-io.mp3;
+changeBg:post.webp;
+:郵局ATM到了;
+:結果發現月底帳戶沒錢...(′⌒‵｡);
+:......;
+: -next ;
+changeFigure:Blacksoul00.png -right;
+黑素:和我一樣呢 -ATM00.wav;
+我:屏東物價比較低 月底也是這樣嗎? ;
+黑素:太多好吃的了  -ATM01.wav;
+黑素:像是火鍋...火鍋...還有火鍋  -ATM02.wav;
+黑素:所以我才會來這邊打工  -ATM03.wav;
+我:原來阿 ;
+我:你最喜歡吃火鍋嗎? ;
+黑素:對阿 還有咖哩喔 -ATM04.wav;
+:   -next ;
+changeFigure: -right -next;
+choose:往左去科藝館看看:Chapter-5.txt|向右走:Chapter-4.txt;

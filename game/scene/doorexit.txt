@@ -1,0 +1,13 @@
+bgm:romantic-peace-trailer-by-musiclfiles-from-filmmusic-io.mp3;
+changeBg:zinyalo.webp;
+changeFigure:Blacksoul00.png -right;
+我:時候不早了 我想要回去休息 追劇追動漫了!;
+我:日本女生也看動漫嗎?;
+黑素: 有阿 ! -leftexit00.wav;
+我也有看鬼滅之刃... -door01.wav;
+黑素:畫面超精緻 配樂又好聽 -door02.wav;
+: -next ;
+changeFigure: -right;
+我:Nice! ;
+: -next;
+changeScene:exit.txt
