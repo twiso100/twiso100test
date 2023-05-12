@@ -4,10 +4,8 @@ changeBg:linsenroad.webp;
 :第一次來參觀屏東大學屏師校區 我該先... ;
 : -next ;
 changeFigure:Blacksoul00.png -right;
-
 黑素:你好 我是屏東大學屏師校區導覽員 黑素 -001.wav;
 黑素的黑 黑素的...素  -startjoke.wav;
-我: ... ; 
 黑素:我可以帶你參觀喔 先跟著我進來吧 -001-1.wav;
 : -next ;
 changeFigure: -right -next;
