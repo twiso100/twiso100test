@@ -6,4 +6,4 @@ changeFigure:Blacksoul00.png;
 changeFigure:none;
 我:哈哈  搞不好喔 ;
 : -next ;
-choose:往左邊走:changepoint2.txt|留在附近晃晃:chapter-5.2.txt|往右(至善樓):Chapter-3.txt;
+choose:往左走(宿舍區):changepoint2.txt|留在附近晃晃:chapter-5.2.txt|往右(至善樓):Chapter-3.txt;
