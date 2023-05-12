@@ -7,4 +7,4 @@ changeFigure:Blacksoul00.png -right;
 :    -next;
 changeFigure: -right;
 
-choose:去領個錢:ATM.txt|去科藝館:Chapter-5.txt|向外走(敬業樓):Chapter1pure.txt;
+choose:去領個錢:ATM.txt|去科藝館(往左):Chapter-5.txt|向外走(敬業樓):Chapter1pure.txt;
