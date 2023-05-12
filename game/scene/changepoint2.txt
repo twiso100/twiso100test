@@ -6,4 +6,4 @@ changeFigure:Blacksoul00.png -right;
 :(上面寫這裡是蕙蘭樓);
 : -next;
 changeFigure: -right;
-choose:去停車場(往外):left01.txt|六愛樓(往內):left02.txt|光華樓:left03.txt|思源樓:left04.txt|復旦樓:left5.txt|去科藝館看看(往右):Chapter-5.txt|逛累了 回家:leftexit.txt;
+choose:去停車場(往外):left01.txt|六愛樓(往內):left02.txt|光華樓:left03.txt|思源樓:left04.txt|復旦樓(最後面):left5.txt|去科藝館看看(往右):Chapter-5.txt|逛累了 回家:leftexit.txt;
