@@ -6,4 +6,4 @@ changeFigure:Blacksoul00.png -right;
 : -next ;
 changeFigure: -right -next;
 
-choose:往左走:left5.1.txt|地上有顆野生的籃球 去投個幾球:basketball.txt|這麼熱!還是去游泳池?看看好了:swimming pool.txt|往右走(理學館):right03.txt;
+choose:往左邊走:left5.1.txt|地上有顆野生的籃球 去投個幾球:basketball.txt|這麼熱!還是去游泳池?看看好了:swimming pool.txt|往右走(理學館):right03.txt;
