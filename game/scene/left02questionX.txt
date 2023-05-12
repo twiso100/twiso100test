@@ -2,7 +2,7 @@ bgm:forest-walk-by-alexander-nakarada-from-filmmusic-io.mp3;
 changeBg:LAB.webp;
 changeFigure:Blacksoul00.png;
 黑素:答錯了喔 -wrong.wav;
-黑素:可以打開手機地圖查一下;
+黑素:可以打開智慧型手機地圖查一下;
 黑素:屏東車站稍微比高雄車站北一點;
 我:...欺負我...地理白癡阿...;
 黑素:嘻嘻! ;
