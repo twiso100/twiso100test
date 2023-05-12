@@ -2,7 +2,7 @@ bgm:romantic-peace-trailer-by-musiclfiles-from-filmmusic-io.mp3;
 changeBg:playground.jpg;
 changeFigure:Blacksoul00.png -right;
 黑素:這是大操場 有升旗講台 籃球場 足球場 棒球打擊場  -playground.wav;
-:人沒有很多 運動起來不太擁擠 ;
+:人沒有很多 來運動不會太擁擠 ;
 : -next ;
 changeFigure: -right -next;
 
