@@ -9,4 +9,4 @@ changeFigure:00076-removebg-preview (1).png;
 changeFigure: -next;
 我:?? 遇到一個怪人... ;
 :    -next;
-choose:往外去復旦樓:left5.5.txt;|去操場:playground.txt;
+choose:往外去復旦樓:left5.5.txt|去操場:playground.txt;
